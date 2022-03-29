@@ -1,0 +1,15 @@
+{
+    "name": "guolianwork/guolianwork",
+    "autoload": {
+        "psr-4": {
+            "Guolianwork\\Guolianwork\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "李泽明",
+            "email": "397082197@qq.com"
+        }
+    ],
+    "require": {}
+}
